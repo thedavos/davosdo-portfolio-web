@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+input, textarea {
+    outline: none;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: var(--lato);
+}
+
+body, p, h1, h2, figure {
+    margin: 0;
+}

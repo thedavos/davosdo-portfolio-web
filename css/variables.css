@@ -1,0 +1,32 @@
+:root {
+    --primary-color: #3D566E;
+    --secondary-color: #496682;
+    --third-color: #F1F1F1;
+    --fourth-color: #F9F9F9;
+
+    /* Textos */
+    --text-color: var(--primary-color);
+
+    /* Nav */
+    --nav-bg: var(--primary-color);
+    --nav-text: var(--fourth-color);
+
+    /* Header */
+    --bottom-arrow: var(--third-color);
+
+    /* Servicios */
+    --service-item: var(--secondary-color);
+    --services-bg: var(--fourth-color);
+
+    /* Proyectos */
+    --proyects-bg: var(--third-color);
+    --proyect-item-overlay: rgba(0, 0, 0, .5);
+
+    /* Contactos */
+    --contacts-item: var(--primary-color);
+    --top-arrow: var(--primary-color);
+
+    /* Tipografía */
+    --lato: 'Lato', system-ui;
+    --lato-bold: 700;
+}
